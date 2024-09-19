@@ -1,0 +1,14 @@
+D:\C#\ItemShop\ItemShop\bin\Debug\net8.0\ItemShop.exe
+D:\C#\ItemShop\ItemShop\bin\Debug\net8.0\ItemShop.deps.json
+D:\C#\ItemShop\ItemShop\bin\Debug\net8.0\ItemShop.runtimeconfig.json
+D:\C#\ItemShop\ItemShop\bin\Debug\net8.0\ItemShop.dll
+D:\C#\ItemShop\ItemShop\bin\Debug\net8.0\ItemShop.pdb
+D:\C#\ItemShop\ItemShop\obj\Debug\net8.0\ItemShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ItemShop\ItemShop\obj\Debug\net8.0\ItemShop.AssemblyInfoInputs.cache
+D:\C#\ItemShop\ItemShop\obj\Debug\net8.0\ItemShop.AssemblyInfo.cs
+D:\C#\ItemShop\ItemShop\obj\Debug\net8.0\ItemShop.csproj.CoreCompileInputs.cache
+D:\C#\ItemShop\ItemShop\obj\Debug\net8.0\ItemShop.dll
+D:\C#\ItemShop\ItemShop\obj\Debug\net8.0\refint\ItemShop.dll
+D:\C#\ItemShop\ItemShop\obj\Debug\net8.0\ItemShop.pdb
+D:\C#\ItemShop\ItemShop\obj\Debug\net8.0\ItemShop.genruntimeconfig.cache
+D:\C#\ItemShop\ItemShop\obj\Debug\net8.0\ref\ItemShop.dll
